@@ -1,0 +1,42 @@
+
+.App {
+    /* text-align: center;
+    height:100%;
+    width: 100%;
+    margin: 0;
+    position:fixed; */
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-end; */
+    
+ }
+
+.Titulo{
+    background-color: black;
+    margin: 0%;
+    position:initial;
+    color: rgb(255, 255, 97);
+    /* width:100%; */
+    /* height: auto; */
+    
+    
+}
+
+
+body {
+    background-image:url('./components/img/Principal.jpg');
+    background-size:cover;
+    width: 100%; 
+    background-position: center;
+    width: 600px;
+  
+  
+  
+  
+}
+

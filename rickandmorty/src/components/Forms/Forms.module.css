@@ -1,0 +1,7 @@
+
+body {
+    background-image:url('./components/img/Principal.jpg');
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+}
